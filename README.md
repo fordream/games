@@ -291,7 +291,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [2048-in-terminal] (https://github.com/alewmoose/2048-in-terminal) - CLI version of the game 2048 made right.
 * [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
 * [EbbeFlut](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
-* [Gomoku](https://github.com/berk76/piskworks) - Gomoku for W32, Linux, DOS, ZX Spectrum, ZX81 and AS400
+* [Gomoku](https://github.com/berk76/piskworks) - Gomoku for Win32, Linux, DOS, ZX Spectrum, ZX81, Replica1 and AS400
 * [IRMINGARD](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Minilens](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine](https://github.com/Circular-Studios/Dash).
